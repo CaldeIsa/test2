@@ -1,0 +1,10 @@
+{
+  "id": "vincent-van-gogh",
+  "nombre": "Vincent van Gogh",
+  "nacimiento": "1853",
+  "fallecimiento": "1890",
+  "nacionalidad": "Países Bajos",
+  "movimiento": "Post-impresionismo",
+  "biografia": "Pintor post-impresionista holandés cuya obra, notable por su belleza, emoción y color, influyó enormemente en el arte del siglo XX. A pesar de su genio, vivió en la pobreza y luchó con enfermedades mentales.",
+  "imagen": "vincent-van-gogh.jpg"
+}

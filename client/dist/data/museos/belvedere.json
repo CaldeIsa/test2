@@ -1,0 +1,10 @@
+{
+  "id": "belvedere",
+  "nombre": "Österreichische Galerie Belvedere",
+  "ciudad": "Viena",
+  "pais": "Austria",
+  "fundacion": "1903",
+  "descripcion": "Complejo de palacios barrocos que alberga la colección de arte austriaco más importante del mundo, desde la Edad Media hasta la actualidad. Famoso por su colección de obras de Gustav Klimt.",
+  "sitio_web": "https://www.belvedere.at",
+  "imagen": "belvedere.jpg"
+}

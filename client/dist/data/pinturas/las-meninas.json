@@ -1,0 +1,12 @@
+{
+  "id": "las-meninas",
+  "titulo": "Las Meninas (La Familia de Felipe IV)",
+  "año": "1656",
+  "tecnica": "Óleo sobre lienzo",
+  "descripcion": "Obra maestra del barroco español que muestra a la infanta Margarita rodeada de sus damas de compañía. Juega con la perspectiva y los reflejos.",
+  "dimensiones": "318 cm × 276 cm",
+  "artista_id": "diego-velazquez",
+  "museo_id": "museo-del-prado",
+  "precio": 1500.00,
+  "imagen": "las-meninas.jpg"
+}

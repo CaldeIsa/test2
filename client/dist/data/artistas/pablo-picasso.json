@@ -1,0 +1,10 @@
+{
+  "id": "pablo-picasso",
+  "nombre": "Pablo Picasso",
+  "nacimiento": "1881",
+  "fallecimiento": "1973",
+  "nacionalidad": "España",
+  "movimiento": "Cubismo",
+  "biografia": "Pintor y escultor español, cofundador del cubismo y uno de los artistas más influyentes del siglo XX. Su obra abarca múltiples estilos y períodos, desde el azul y rosa hasta el cubismo y el surrealismo.",
+  "imagen": "pablo-picasso.jpg"
+}

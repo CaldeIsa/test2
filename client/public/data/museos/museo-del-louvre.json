@@ -1,0 +1,10 @@
+{
+  "id": "museo-del-louvre",
+  "nombre": "Museo del Louvre",
+  "ciudad": "París",
+  "pais": "Francia",
+  "fundacion": "1793",
+  "descripcion": "El museo de arte más grande y visitado del mundo. Ubicado en el antiguo palacio real del Louvre, alberga aproximadamente 380,000 objetos y exhibe 35,000 obras de arte en ocho departamentos curatoriales.",
+  "sitio_web": "https://www.louvre.fr",
+  "imagen": "museo-del-louvre.jpg"
+}

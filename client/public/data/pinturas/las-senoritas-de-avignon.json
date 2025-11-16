@@ -1,0 +1,12 @@
+{
+  "id": "las-senoritas-de-avignon",
+  "titulo": "Las Señoritas de Avignon",
+  "año": "1907",
+  "tecnica": "Óleo sobre lienzo",
+  "descripcion": "Considerada la obra que inició el movimiento cubista. Representa cinco figuras femeninas con influencias del arte africano e ibérico.",
+  "dimensiones": "243.9 cm × 233.7 cm",
+  "artista_id": "pablo-picasso",
+  "museo_id": "moma",
+  "precio": 1500.00,
+  "imagen": "las-senoritas-de-avignon.jpg"
+}

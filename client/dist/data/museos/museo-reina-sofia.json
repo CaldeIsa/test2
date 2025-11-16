@@ -1,0 +1,10 @@
+{
+  "id": "museo-reina-sofia",
+  "nombre": "Museo Nacional Centro de Arte Reina Sofía",
+  "ciudad": "Madrid",
+  "pais": "España",
+  "fundacion": "1992",
+  "descripcion": "Museo nacional español de arte del siglo XX y contemporáneo. Alberga la colección más completa de arte español moderno, incluyendo obras maestras de Picasso, Dalí y Miró.",
+  "sitio_web": "https://www.museoreinasofia.es",
+  "imagen": "museo-reina-sofia.jpg"
+}

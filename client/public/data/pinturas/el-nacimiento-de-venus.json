@@ -1,0 +1,12 @@
+{
+  "id": "el-nacimiento-de-venus",
+  "titulo": "El Nacimiento de Venus",
+  "año": "1485",
+  "tecnica": "Temple sobre lienzo",
+  "descripcion": "Representa a la diosa Venus emergiendo del mar sobre una concha. Uno de los primeros desnudos paganos del Renacimiento italiano.",
+  "dimensiones": "172.5 cm × 278.9 cm",
+  "artista_id": "sandro-botticelli",
+  "museo_id": "galeria-uffizi",
+  "precio": 1500.00,
+  "imagen": "el-nacimiento-de-venus.jpg"
+}

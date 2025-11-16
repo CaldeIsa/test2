@@ -1,0 +1,12 @@
+{
+  "id": "la-ultima-cena",
+  "titulo": "La Última Cena",
+  "año": "1495-1498",
+  "tecnica": "Fresco",
+  "descripcion": "Representa el momento en que Jesús anuncia que uno de sus apóstoles lo traicionará. Es una obra maestra de la perspectiva y composición renacentista.",
+  "dimensiones": "460 cm × 880 cm",
+  "artista_id": "leonardo-da-vinci",
+  "museo_id": "santa-maria-delle-grazie",
+  "precio": 1500.00,
+  "imagen": "la-ultima-cena.jpg"
+}

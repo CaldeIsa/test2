@@ -1,0 +1,10 @@
+{
+  "id": "museo-del-prado",
+  "nombre": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "pais": "España",
+  "fundacion": "1819",
+  "descripcion": "Uno de los museos más importantes del mundo, con la mejor colección de pintura española. Diseñado por Juan de Villanueva en 1785, alberga obras maestras de Velázquez, Goya, El Bosco y muchos otros.",
+  "sitio_web": "https://www.museodelprado.es",
+  "imagen": "museo-del-prado.jpg"
+}

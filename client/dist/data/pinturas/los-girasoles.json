@@ -1,0 +1,12 @@
+{
+  "id": "los-girasoles",
+  "titulo": "Los Girasoles",
+  "año": "1888",
+  "tecnica": "Óleo sobre lienzo",
+  "descripcion": "Serie de naturalezas muertas con girasoles en un jarrón. Representa la búsqueda de Van Gogh por capturar la luz y el color del sur de Francia.",
+  "dimensiones": "92 cm × 73 cm",
+  "artista_id": "vincent-van-gogh",
+  "museo_id": "museo-van-gogh",
+  "precio": 1500.00,
+  "imagen": "los-girasoles.jpg"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "el-beso",
+  "titulo": "El Beso",
+  "año": "1907-1908",
+  "tecnica": "Óleo sobre lienzo con pan de oro",
+  "descripcion": "Pareja abrazándose con túnicas decoradas con motivos geométricos. Obra cumbre del Período Dorado de Klimt con influencias bizantinas.",
+  "dimensiones": "180 cm × 180 cm",
+  "artista_id": "gustav-klimt",
+  "museo_id": "belvedere",
+  "precio": 1500.00,
+  "imagen": "el-beso.jpg"
+}

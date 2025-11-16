@@ -1,0 +1,12 @@
+{
+  "id": "mona-lisa",
+  "titulo": "Mona Lisa (La Gioconda)",
+  "año": "1503-1519",
+  "tecnica": "Óleo sobre tabla de álamo",
+  "descripcion": "Retrato de Lisa Gherardini, esposa del comerciante florentino Francesco del Giocondo. Es famosa por su enigmática sonrisa y su mirada penetrante. Representa una innovación en el arte renacentista.",
+  "dimensiones": "77 cm × 53 cm",
+  "artista_id": "leonardo-da-vinci",
+  "museo_id": "museo-del-louvre",
+  "precio": 1500.00,
+  "imagen": "mona-lisa.jpg"
+}

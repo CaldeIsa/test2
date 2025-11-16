@@ -1,0 +1,10 @@
+{
+  "id": "galeria-uffizi",
+  "nombre": "Galería de los Uffizi",
+  "ciudad": "Florencia",
+  "pais": "Italia",
+  "fundacion": "1581",
+  "descripcion": "Uno de los museos de arte más antiguos y famosos del mundo. Alberga la colección más importante de arte renacentista italiano, con obras de Botticelli, Leonardo, Miguel Ángel y Rafael.",
+  "sitio_web": "https://www.uffizi.it",
+  "imagen": "galeria-uffizi.jpg"
+}

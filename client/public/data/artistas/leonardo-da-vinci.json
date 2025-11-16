@@ -1,0 +1,10 @@
+{
+  "id": "leonardo-da-vinci",
+  "nombre": "Leonardo da Vinci",
+  "nacimiento": "1452",
+  "fallecimiento": "1519",
+  "nacionalidad": "Italia",
+  "movimiento": "Renacimiento",
+  "biografia": "Polímata del Renacimiento italiano, fue pintor, escultor, arquitecto, científico e inventor. Considerado uno de los mayores genios de la humanidad, sus obras representan la perfección técnica y el humanismo renacentista.",
+  "imagen": "leonardo-da-vinci.jpg"
+}

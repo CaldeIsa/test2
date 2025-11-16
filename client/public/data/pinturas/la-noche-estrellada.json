@@ -1,0 +1,12 @@
+{
+  "id": "la-noche-estrellada",
+  "titulo": "La Noche Estrellada",
+  "año": "1889",
+  "tecnica": "Óleo sobre lienzo",
+  "descripcion": "Vista nocturna desde la ventana del manicomio de Saint-Rémy-de-Provence. Caracterizada por pinceladas arremolinadas y colores vibrantes de azul y amarillo.",
+  "dimensiones": "73.7 cm × 92.1 cm",
+  "artista_id": "vincent-van-gogh",
+  "museo_id": "moma",
+  "precio": 1500.00,
+  "imagen": "la-noche-estrellada.jpg"
+}

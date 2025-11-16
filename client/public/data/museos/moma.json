@@ -1,0 +1,10 @@
+{
+  "id": "moma",
+  "nombre": "Museum of Modern Art",
+  "ciudad": "Nueva York",
+  "pais": "Estados Unidos",
+  "fundacion": "1929",
+  "descripcion": "Uno de los museos de arte moderno y contemporáneo más influyentes del mundo. Fundado por Abby Aldrich Rockefeller, Lillie P. Bliss y Mary Quinn Sullivan. Alberga obras desde finales del siglo XIX hasta la actualidad.",
+  "sitio_web": "https://www.moma.org",
+  "imagen": "moma.jpg"
+}

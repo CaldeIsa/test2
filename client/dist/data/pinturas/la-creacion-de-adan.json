@@ -1,0 +1,12 @@
+{
+  "id": "la-creacion-de-adan",
+  "titulo": "La Creación de Adán",
+  "año": "1511",
+  "tecnica": "Fresco",
+  "descripcion": "Fresco del techo de la Capilla Sixtina que muestra a Dios dando vida a Adán. Icónica imagen de las manos casi tocándose.",
+  "dimensiones": "280 cm × 570 cm",
+  "artista_id": "miguel-angel",
+  "museo_id": "capilla-sixtina",
+  "precio": 1500.00,
+  "imagen": "la-creacion-de-adan.jpg"
+}

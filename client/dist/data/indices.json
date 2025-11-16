@@ -1,0 +1,32 @@
+{
+  "pinturas": [
+    "mona-lisa",
+    "la-ultima-cena",
+    "la-noche-estrellada",
+    "los-girasoles",
+    "guernica",
+    "las-senoritas-de-avignon",
+    "el-beso",
+    "la-joven-de-la-perla",
+    "el-grito",
+    "las-meninas",
+    "el-nacimiento-de-venus",
+    "la-creacion-de-adan"
+  ],
+  "artistas": [
+    "leonardo-da-vinci",
+    "vincent-van-gogh",
+    "pablo-picasso",
+    "gustav-klimt",
+    "diego-velazquez",
+    "edvard-munch"
+  ],
+  "museos": [
+    "museo-del-louvre",
+    "moma",
+    "museo-reina-sofia",
+    "museo-del-prado",
+    "galeria-uffizi",
+    "belvedere"
+  ]
+}

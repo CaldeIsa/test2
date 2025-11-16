@@ -1,0 +1,12 @@
+{
+  "id": "guernica",
+  "titulo": "Guernica",
+  "año": "1937",
+  "tecnica": "Óleo sobre lienzo",
+  "descripcion": "Alegato contra la guerra que representa el bombardeo de la ciudad vasca de Guernica durante la Guerra Civil Española. Obra maestra del cubismo.",
+  "dimensiones": "349 cm × 776 cm",
+  "artista_id": "pablo-picasso",
+  "museo_id": "museo-reina-sofia",
+  "precio": 1500.00,
+  "imagen": "guernica.jpg"
+}

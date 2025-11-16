@@ -1,0 +1,12 @@
+{
+  "id": "el-grito",
+  "titulo": "El Grito",
+  "año": "1893",
+  "tecnica": "Óleo, temple y pastel sobre cartón",
+  "descripcion": "Figura andrógina en un puente con las manos en el rostro, expresando angustia existencial. Icono del expresionismo y símbolo de la ansiedad moderna.",
+  "dimensiones": "91 cm × 73.5 cm",
+  "artista_id": "edvard-munch",
+  "museo_id": "museo-nacional-noruega",
+  "precio": 1500.00,
+  "imagen": "el-grito.jpg"
+}
